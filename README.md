@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 
 ### Backend Developer (3+ Years Experience)
 
-**Location:** [Your Location] | **Email:** [Your Email] | **LinkedIn:** [Your LinkedIn URL]
+**Location:** [Mysore] | **Email:** [brijeshyadav30599] | **LinkedIn:** [linkedin.com/in/brijesh-yadav]
 
 ---
 
 ### 🔹 Skills:
-- **Languages:** Java, Python, JavaScript
+- **Languages:** Java, C/C++, JavaScript
 - **Frameworks:** Spring Boot, Hibernate
 - **Database:** PostgreSQL, MySQL
 - **Cloud Services:** AWS (EC2, S3, Lambda), Docker
@@ -37,25 +37,18 @@ Here are some ideas to get you started:
 
 ### 🏢 **Work Experience**
 
-**Software Engineer** - *Company Name*
-*June 2021 – Present*
+**Software Engineer** - *ArisGlobal*
+*Oct 2021 – Present*
 
-- Built and maintained a microservices-based architecture for email processing and document sharing applications.
-- Developed a document sharing application with QR code-based functionality using Java, Spring Boot, and PostgreSQL.
+- Built and maintained a microservices-based architecture for email processing and data extraction applications.
+- Contributed to the development of backend microservices for email job processing systems.
 - Deployed scalable applications on AWS using EC2, S3, and other services.
-
-**Associate Software Engineer** - *Company Name*
-*July 2019 – May 2021*
-
-- Contributed to the development of backend microservices for job processing systems.
-- Worked on optimizing database queries and improving application performance.
-
 ---
 
 ### 📚 **Education**
 
 **Bachelor of Technology in Computer Science**  
-*University Name*, Graduated: 2019
+*Dr. A.P.J. Abdul Kalam Technical University Lucknow*, Graduated: 2020
 
 ---
 
