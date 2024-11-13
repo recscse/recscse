@@ -87,8 +87,8 @@ Here are some ideas to get you started:
 
 ### 💻 Backend Developer | 3+ Years Experience
 
-**🌍 Location:** [Your Location]  
-**📧 Email:** [Your Email]  
+**🌍 Location:** [Mysore]  
+**📧 Email:** [brijeshyadav30599@gmail.com]  
 **🔗 LinkedIn:** [Brijesh Yadav](https://www.linkedin.com/in/brijesh-yadav-)  
 **🌐 Portfolio:** [recscse.github.io](https://recscse.github.io/portfolio/index.html)
 
@@ -96,7 +96,7 @@ Here are some ideas to get you started:
 
 ## 🔹 Skills
 
-- **Languages:** Java, Python, JavaScript
+- **Languages:** Java, C/C++, JavaScript
 - **Frameworks & Libraries:** Spring Boot, Hibernate, JUnit
 - **Databases:** PostgreSQL, MySQL
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Jenkins
@@ -112,12 +112,12 @@ Here are some ideas to get you started:
 - Designed and implemented microservices-based applications for **email processing** and **document sharing** using **Java**, **Spring Boot**, and **PostgreSQL**.
 - Developed a **document-sharing application** with **QR code** functionality for secure document transfer between senders and receivers.
 - Deployed, monitored, and optimized applications on **AWS**, utilizing services like **EC2** and **S3** to ensure scalability.
-  
+<!--  
 ### **Associate Software Engineer**  
 **Previous Company** – *July 2019 – September 2021*  
 - Contributed to the development and optimization of **backend microservices** for job processing applications.
 - Improved database query performance and ensured application efficiency by working closely with **PostgreSQL** and **MySQL**.
-
+-->
 ---
 
 ## 💼 Notable Projects
