@@ -1,158 +1,101 @@
-## Hi there 👋
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="assets/banner.png" alt="Brijesh Yadav Banner" width="100%" />
+</p>
 
-<!--
-**recscse/recscse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I’m Brijesh 👋
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-<!--
-# Brijesh Yadav
-
-### Backend Developer (3+ Years Experience)
-
-**Location:** [Mysore] | **Email:** [brijeshyadav30599] | **LinkedIn:** [linkedin.com/in/brijesh-yadav]
+[![Portfolio](https://img.shields.io/badge/Portfolio-recscse.github.io-informational?style=for-the-badge&logo=google-chrome&logoColor=white)](https://recscse.github.io/portfolio/index.html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brijesh%20Yadav-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brijesh-yadav-)
+![Visitors](https://komarev.com/ghpvc/?username=recscse&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/recscse?style=for-the-badge&logo=github)
 
 ---
 
-### 🔹 Skills:
-- **Languages:** Java, C/C++, JavaScript
-- **Frameworks:** Spring Boot, Hibernate
-- **Database:** PostgreSQL, MySQL
-- **Cloud Services:** AWS (EC2, S3, Lambda), Docker
+Backend Engineer (3+ yrs) building reliable, scalable services with **Java + Spring Boot**, **PostgreSQL/MySQL**, and **AWS**.  
+I love turning messy requirements into clean APIs, production-grade microservices, and measurable outcomes.
+
+- 🔭 Currently building: **Growth Quantix** — a real-time trading & analytics platform (FastAPI/Java, WebSockets, Redis, React).  
+- ⚙️ Interests: distributed systems, event-driven design, low-latency data, and production automation.  
+- 🌍 Based in **Mysore, India**  
+- ✉️ **brijeshyadav30599@gmail.com**
 
 ---
 
-### 🏢 **Work Experience**
-
-**Software Engineer** - *ArisGlobal*
-*Oct 2021 – Present*
-
-- Built and maintained a microservices-based architecture for email processing and data extraction applications.
-- Contributed to the development of backend microservices for email job processing systems.
-- Deployed scalable applications on AWS using EC2, S3, and other services.
----
-
-### 📚 **Education**
-
-**Bachelor of Technology in Computer Science**  
-*Dr. A.P.J. Abdul Kalam Technical University Lucknow*, Graduated: 2020
-
----
-
-### 💼 **Projects**
-
-- **[Document Sharing and Printing Application](https://github.com/yourusername/project-repo)**
-  - Developed a QR code-based document sharing app with real-time updates for receivers.
-  
-- **[PDF Data Extraction Service](https://github.com/yourusername/project-repo)**
-  - Built a service that extracts and customizes data from PDFs, using AI and machine learning techniques.
-
----
-
-### 🌱 **Open Source Contributions**
-
-- Contributed to [Open Source Project](https://github.com/open-source-repo) by fixing bugs and improving documentation.
-  
----
-
-### 📈 **GitHub Stats**
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
----
-
-### 📫 **Contact Me**
-
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Portfolio](https://yourportfolio.com)
--->
-
-
-# Brijesh Yadav
-
-### 💻 Backend Developer | 3+ Years Experience
-
-**🌍 Location:** [Mysore]  
-**📧 Email:** [brijeshyadav30599@gmail.com]  
-**🔗 LinkedIn:** [Brijesh Yadav](https://www.linkedin.com/in/brijesh-yadav-)  
-**🌐 Portfolio:** [recscse.github.io](https://recscse.github.io/portfolio/index.html)
-
----
-
-## 🔹 Skills
-
-- **Languages:** Java, C/C++, JavaScript
-- **Frameworks & Libraries:** Spring Boot, Hibernate, JUnit
-- **Databases:** PostgreSQL, MySQL
-- **Cloud & DevOps:** AWS (EC2, S3, Lambda), Docker, Jenkins
-- **Version Control:** Git, GitHub
-- **Other:** Microservices Architecture, RESTful APIs
-
----
-
-## 🏢 Professional Experience
-
-### **Software Engineer**  
-**ArisGlobal** – *October 2021 – Present*  
-- Designed and implemented microservices-based applications for **email processing** and **document sharing** using **Java**, **Spring Boot**, and **PostgreSQL**.
-- Developed a **document-sharing application** with **QR code** functionality for secure document transfer between senders and receivers.
-- Deployed, monitored, and optimized applications on **AWS**, utilizing services like **EC2** and **S3** to ensure scalability.
-<!--  
-### **Associate Software Engineer**  
-**Previous Company** – *July 2019 – September 2021*  
-- Contributed to the development and optimization of **backend microservices** for job processing applications.
-- Improved database query performance and ensured application efficiency by working closely with **PostgreSQL** and **MySQL**.
--->
----
-
-## 💼 Notable Projects
-
-- **📄 [Document Sharing and Printing Application](https://github.com/recscse/project-repo)**  
-  A web-based application allowing users to securely share and print documents via QR codes. Built using **Java**, **Spring Boot**, and **PostgreSQL**. Real-time document updates for receivers, with a responsive UI for both mobile and web.
-
-- **📑 [PDF Data Extraction Service](https://github.com/recscse/project-repo)**  
-  A dynamic service for extracting data from PDFs using AI, allowing for flexible customization. Built using **Python** for AI/ML tasks and **Java** for backend processing.
-
----
-
-## 🏆 Open Source Contributions
-
-- Contributed to [Open Source Project](https://github.com/open-source-repo) by fixing critical bugs and improving the overall project documentation.
-  
----
-
-## 🎓 Education
-
-**Bachelor of Technology in Computer Science**  
-*University Name*, Graduated: 2019
-
----
-
-## 📈 GitHub Stats
+## 🧰 Tech I Work With
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=recscse&show_icons=true&theme=radical" alt="GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recscse&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
-## 📫 Contact Me
+## 🏢 Experience
 
-- [LinkedIn](https://www.linkedin.com/in/brijesh-yadav-)
-- [Portfolio](https://recscse.github.io/portfolio/index.html)
+### Software Engineer — ArisGlobal  
+*Oct 2021 – Present · Mysore, India*  
+
+- Designed & shipped microservices for **email processing** and **secure document sharing** using **Spring Boot + PostgreSQL**.  
+- Built a **QR-code document transfer** flow enabling sender→receiver handoffs with auditability and access control.  
+- Productionized on **AWS** (EC2, S3), with CI/CD in **Jenkins**, dashboards & alerts for reliability.
+
+---
+
+## 🧪 Featured Projects
+
+### 📄 Document Sharing & Printing App  
+**Stack:** Java, Spring Boot, PostgreSQL, AWS  
+- Secure, QR-based document handoff with receiver live updates and mobile-friendly UI.  
+- Role-based access, immutable logs, and optimized upload/serve paths via S3/EC2.  
+**Repo:** [GitHub Link](https://github.com/recscse/project-repo) <!-- update -->
+
+---
+
+### 📑 PDF Data Extraction Service  
+**Stack:** Python (AI/ML), Java, Spring Boot  
+- Extracts dynamic fields from PDFs + customizable mapping rules.  
+- Built to plug into downstream microservices for validation & enrichment.  
+**Repo:** [GitHub Link](https://github.com/recscse/project-repo) <!-- update -->
+
+---
+
+### 📈 Growth Quantix (WIP)  
+**Stack:** FastAPI/Java services, Redis, WebSockets, React  
+- Real-time market data ingestion, strategy signals, and trading candidates.  
+- Modular services for screening, execution hooks, and live dashboards.  
+**Site:** <!-- optional public link if available -->
+
+---
+
+## 🎓 Education
+**B.Tech, Computer Science** — Dr. A.P.J. Abdul Kalam Technical University, Lucknow · **2020**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=recscse&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=recscse&theme=radical" alt="GitHub streak" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=recscse&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
+
+---
+
+## 🌐 Find Me Online
+- [LinkedIn](https://www.linkedin.com/in/brijesh-yadav-)  
+- [Portfolio](https://recscse.github.io/portfolio/index.html)  
+- ✉️ **brijeshyadav30599@gmail.com**
