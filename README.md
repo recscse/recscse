@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate backend engineer with **3+ years** of experience building robust, scalable services. I specialize in transforming complex business requirements into production-grade microservices and clean, efficient APIs.
+I'm a passionate backend engineer with **4+ years** of experience building robust, scalable services. I specialize in transforming complex business requirements into production-grade microservices and clean, efficient APIs.
 
 - 🔭 **Currently Building:** **Growth Quantix** - Real-time trading & analytics platform
 - 🌱 **Learning:** Advanced distributed systems, Kubernetes, system design patterns
