@@ -1,6 +1,6 @@
-<!-- Header Section with Animated Banner -->
+<!-- Header Section with Professional Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/github-banner-final.png" alt="Brijesh Yadav - Backend Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/github-banner-final-clean.png" alt="Brijesh Yadav - Backend Engineer" width="100%"/>
   
   # Brijesh Yadav | Backend Engineer
   
