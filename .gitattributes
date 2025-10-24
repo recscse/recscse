@@ -1,0 +1,11 @@
+# Classify Jupyter notebooks as Python
+*.ipynb linguist-language=Python
+
+# Classify configuration files appropriately
+*.yml linguist-language=YAML
+*.yaml linguist-language=YAML
+*.json linguist-language=JSON
+
+# Exclude dependencies and generated files
+package-lock.json linguist-vendored
+*.min.js linguist-vendored
