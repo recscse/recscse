@@ -148,7 +148,7 @@ I'm a passionate backend engineer with **4+ years** of experience building robus
     <td width="50%" valign="top">
       <h3 align="center">📄 Document Sharing & Printing Application</h3>
       <div align="center">
-        <a href="https://github.com/recscse/document-sharing-app" target="_blank">
+        <a href="https://prindox.com/" target="_blank">
           <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/document-sharing.png" width="100%" alt="Document Sharing App"/>
         </a>
         <p>
