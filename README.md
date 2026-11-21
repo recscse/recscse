@@ -301,7 +301,7 @@ Write-ups from [my portfolio blog](https://recscse.github.io/portfolio/blog/inde
   <a href="https://medium.com/@brijeshyadav">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
   </a>
-  <a href="https://twitter.com/brijeshyadavdev">
+  <a href="https://x.com/_brijeshyadav">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   
