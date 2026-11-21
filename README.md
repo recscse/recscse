@@ -1,6 +1,6 @@
 <!-- Header Section with Professional Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/github-banner-final-clean.png" alt="Brijesh Yadav - Backend Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/github-banner-final.png" alt="Brijesh Yadav - Backend Engineer" width="100%"/>
   
   # Brijesh Yadav | Backend Engineer
   
@@ -12,23 +12,14 @@
     <a href="#"><img src="https://komarev.com/ghpvc/?username=recscse&style=for-the-badge&color=0e75b6" alt="Profile Views"/></a>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;4%2B+years+building+scalable+systems;Backend+Engineering+%7C+Distributed+Systems;Currently+working+on+Growth+Quantix" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4F8CC9&center=true&vCenter=true&width=600&lines=Java+%7C+Spring+Boot+%7C+Microservices+%7C+AWS;5%2B+years+building+scalable+systems;Backend+Engineering+%7C+Distributed+Systems;Currently+working+on+Growth+Quantix" alt="Typing SVG" />
   
-  <br/>
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/recscse/recscse/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/recscse/recscse/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/recscse/recscse/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 <!-- About Me Section -->
 ## 👨‍💻 About Me
 
-I'm a passionate backend engineer with **4+ years** of experience building robust, scalable services. I specialize in transforming complex business requirements into production-grade microservices and clean, efficient APIs.
-
-<img align="right" alt="Coding" width="400" src="https://github.com/recscse/recscse/raw/main/assets/coding.gif">
+I'm a passionate backend engineer with **5+ years** of experience building robust, scalable services. I specialize in transforming complex business requirements into production-grade microservices and clean, efficient APIs.
 
 - 🔭 **Currently Building:** **Growth Quantix** - Real-time trading & analytics platform
 - 🌱 **Learning:** Advanced distributed systems, Kubernetes, system design patterns
@@ -36,7 +27,7 @@ I'm a passionate backend engineer with **4+ years** of experience building robus
 - 🎯 **Focus:** Backend development, microservices, cloud infrastructure
 - 🌍 **Location:** Mysore, India
 - 📫 **Reach me:** `brijeshyadav30599@gmail.com`
-- 👨‍💻 **Open Source:** Contributed to 5+ open source projects
+- 👨‍💻 **Open Source:** Author of [`upstox-auth-pro`](https://pypi.org/project/upstox-auth-pro/) (Python SDK on PyPI) and [`codive`](https://github.com/recscse/codive) (MCP server for AI coding agents)
 - 📚 **Mentoring:** Helped 10+ junior developers grow their skills
 
 <!-- Tech Stack Section -->
@@ -116,13 +107,12 @@ I'm a passionate backend engineer with **4+ years** of experience building robus
     <h3>Software Engineer</h3>
     <p><i>Oct 2021 – Present | Mysore, India</i></p>
     <ul>
-      <li>🏗️ <b>Architected & developed microservices</b> for email processing and secure document sharing using <b>Spring Boot + PostgreSQL</b> with 99.9% uptime SLA</li>
-      <li>🔐 <b>Built QR-code document transfer system</b> enabling secure sender→receiver handoffs with comprehensive audit trails, processing 10,000+ daily transactions</li>
-      <li>☁️ <b>Led production deployment</b> on <b>AWS</b> (EC2, S3, RDS) with <b>CI/CD pipelines</b> in Jenkins, reducing deployment time by 70%</li>
-      <li>📊 <b>Implemented monitoring solutions</b> using Prometheus & Grafana with custom dashboards and alerts, improving system reliability by 40%</li>
-      <li>🔄 <b>Optimized database performance</b> through query optimization and indexing strategies, reducing average response time from 500ms to 50ms</li>
-      <li>🚀 <b>Integrated caching</b> with Redis, resulting in 95% improvement in read operation latency</li>
-      <li>👨‍💻 <b>Mentored junior developers</b> on best practices in API design, microservices architecture, and test-driven development</li>
+      <li>🏗️ <b>Developed and maintained Spring Boot microservices</b> supporting critical pharmacovigilance workflows used by global pharmaceutical organizations</li>
+      <li>🔌 <b>Designed and implemented REST APIs</b> and backend services enabling enterprise integrations and workflow automation</li>
+      <li>📧 <b>Built high-volume email ingestion and document-processing pipelines</b> handling thousands of inbound emails and attachments</li>
+      <li>🧠 <b>Integrated OCR and NLP-based pipelines</b> that turn unstructured business data into structured records, improving processing efficiency by approximately 80% with extraction accuracy above 95%</li>
+      <li>🔄 <b>Optimized PostgreSQL and MySQL queries</b>, improving application performance and scalability</li>
+      <li>🛠️ <b>Investigated production issues</b>, performed root-cause analysis and delivered reliable fixes in Agile teams</li>
     </ul>
   </div>
   
@@ -146,93 +136,54 @@ I'm a passionate backend engineer with **4+ years** of experience building robus
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📄 Document Sharing & Printing Application</h3>
-      <div align="center">
-        <a href="https://prindox.com/" target="_blank">
-          <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/document-sharing.png" width="100%" alt="Document Sharing App"/>
-        </a>
-        <p>
-          <a href="https://github.com/recscse/document-sharing-app" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Java, Spring Boot, PostgreSQL, AWS, REST APIs</strong> - Secure, QR-based document handoff system with real-time updates</p>
-      </div>
+      <h3 align="center">📈 Growth Quantix</h3>
+      <p align="center">
+        <a href="https://github.com/growthquantix/tradingbot"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+        <a href="https://growthquantix.com"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/></a>
+      </p>
+      <p><strong>Python, FastAPI, PostgreSQL, Redis, WebSockets, React</strong> - multi-broker algorithmic trading platform (Upstox, Dhan, Fyers)</p>
       <ul>
-        <li>✅ <b>Secure document transfer</b> with QR-code authentication</li>
-        <li>✅ <b>Role-based access control</b> with immutable audit logs</li>
-        <li>✅ <b>Production-ready</b> with 95% test coverage</li>
+        <li>✅ Real-time market-data ingestion with WebSocket streaming to dashboards</li>
+        <li>✅ Paper trading, backtesting, portfolio and broker-account management</li>
+        <li>✅ Modular services: market data, broker integrations, execution, users</li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">📑 PDF Data Extraction Service</h3>
-      <div align="center">
-        <a href="https://github.com/recscse/pdf-extraction-service" target="_blank">
-          <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/pdf-extraction.png" width="100%" alt="PDF Extraction Service"/>
-        </a>
-        <p>
-          <a href="https://github.com/recscse/pdf-extraction-service" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, Java, Spring Boot, Machine Learning, REST APIs</strong> - AI-powered PDF field extraction with customizable mapping rules</p>
-      </div>
+      <h3 align="center">🔐 Upstox Auth Pro</h3>
+      <p align="center">
+        <a href="https://github.com/growthquantix/upstox-auth-pro"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+        <a href="https://pypi.org/project/upstox-auth-pro/"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI"/></a>
+        <a href="https://github.com/growthquantix/upstox-auth-pro-java"><img src="https://img.shields.io/badge/Java_SDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java SDK"/></a>
+      </p>
+      <p><strong>Python, Playwright, OAuth2, TOTP, GitHub Actions</strong> - open-source SDK (Python on PyPI, plus a Java version) that automates Upstox authentication</p>
       <ul>
-        <li>✅ <b>Dynamic field extraction</b> with 98% accuracy</li>
-        <li>✅ <b>Machine learning models</b> for intelligent data recognition</li>
-        <li>✅ <b>Microservice architecture</b> processing 5000+ documents daily</li>
+        <li>✅ Browser-automated login with TOTP 2FA and secure token generation</li>
+        <li>✅ Pluggable token storage, automatic refresh, retries and diagnostics</li>
+        <li>✅ CLI tool and automated release workflow</li>
       </ul>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">📈 Growth Quantix (WIP)</h3>
-      <div align="center">
-        <a href="https://github.com/recscse/growth-quantix" target="_blank">
-          <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/trading-platform.png" width="100%" alt="Growth Quantix"/>
-        </a>
-        <p>
-          <a href="https://github.com/recscse/growth-quantix" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Coming_Soon-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>FastAPI/Java, Redis, WebSockets, React, PostgreSQL</strong> - Real-time trading and market analytics platform</p>
-      </div>
+      <h3 align="center">🧠 codive</h3>
+      <p align="center">
+        <a href="https://github.com/recscse/codive"><img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white" alt="Code"/></a>
+        <a href="https://recscse.github.io/codive/"><img src="https://img.shields.io/badge/Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Site"/></a>
+      </p>
+      <p><strong>Go, SQLite, MCP</strong> - local-first code-intelligence server that gives AI coding agents symbols, call graphs and file outlines instead of whole files</p>
       <ul>
-        <li>📊 <b>Real-time market data</b> processing with sub-millisecond latency</li>
-        <li>⚡ <b>Low-latency execution</b> with WebSocket connections</li>
-        <li>🔄 <b>Modular microservices</b> architecture with event-driven design</li>
+        <li>✅ Measured 92.4% smaller output across five operations in its own benchmark (one repo, tokens estimated; plain <code>git grep</code> wins on simple lookups) - <a href="https://github.com/recscse/codive/blob/main/docs/BENCHMARK_REPORT.md">report</a></li>
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔍 Search Engine Optimization Tool</h3>
-      <div align="center">
-        <a href="https://github.com/recscse/seo-analysis-tool" target="_blank">
-          <img src="https://raw.githubusercontent.com/recscse/recscse/main/assets/seo-tool.png" width="100%" alt="SEO Tool"/>
-        </a>
-        <p>
-          <a href="https://github.com/recscse/seo-analysis-tool" target="_blank">
-            <img src="https://img.shields.io/badge/Code-black?style=for-the-badge&logo=github&logoColor=white"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Live-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-          </a>
-        </p>
-        <p><strong>Python, FastAPI, React, PostgreSQL, NLP</strong> - Comprehensive SEO analysis and recommendation engine</p>
-      </div>
+      <h3 align="center">📄 Prindox</h3>
+      <p align="center">
+        <a href="https://prindox.com/"><img src="https://img.shields.io/badge/Live-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Live"/></a>
+      </p>
+      <p><strong>Python, FastAPI, PostgreSQL</strong> - online document printing platform</p>
       <ul>
-        <li>🔍 <b>Advanced website crawling</b> with intelligent page analysis</li>
-        <li>📊 <b>Detailed reports</b> with actionable recommendations</li>
-        <li>🤖 <b>NLP-powered content analysis</b> for keyword optimization</li>
+        <li>✅ Document upload, print-order management and workflow automation APIs</li>
+        <li>✅ Asynchronous background processing for validation and orders</li>
       </ul>
     </td>
   </tr>
@@ -267,24 +218,20 @@ I'm a passionate backend engineer with **4+ years** of experience building robus
 </div>
 
 <!-- Latest Blog Posts -->
-## ✍️ Latest Blog Posts
+## ✍️ Engineering Blog
 
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable Microservices with Spring Boot: Lessons Learned](https://medium.com/@brijeshyadav/building-scalable-microservices-with-spring-boot-bd7a9c4e1)
-- [Effective Database Optimization Techniques for High-Traffic Applications](https://medium.com/@brijeshyadav/effective-database-optimization-techniques-3f7a92c5)
-- [Implementing Event-Driven Architecture in Java Microservices](https://medium.com/@brijeshyadav/implementing-event-driven-architecture-8b4f21d3)
-- [Securing RESTful APIs: Best Practices and Common Pitfalls](https://medium.com/@brijeshyadav/securing-restful-apis-e562a1f9)
-- [The Journey of Building a Document Sharing System from Scratch](https://medium.com/@brijeshyadav/document-sharing-system-journey-7d431f8a)
-<!-- BLOG-POST-LIST:END -->
+Write-ups from [my portfolio blog](https://recscse.github.io/portfolio/blog/index.html):
+
+- [The Math of Winning: Kelly Criterion Risk Engine](https://recscse.github.io/portfolio/blog/kelly-criterion-risk-engine.html)
+- [Designing a Real-Time Market Data Pipeline for an Algorithmic Trading Platform](https://recscse.github.io/portfolio/blog/designing-real-time-market-data-pipeline-algorithmic-trading.html)
+- [Building a Production-Ready OAuth2 Automation SDK for Upstox](https://recscse.github.io/portfolio/blog/building-production-ready-oauth2-automation-sdk-upstox.html)
+- [QR-based Document Handoffs with Audit Trails](https://recscse.github.io/portfolio/blog/qr-document-handoffs.html)
+- [Spring Boot Email Pipeline: From Queue to Delivery](https://recscse.github.io/portfolio/blog/spring-boot-email-pipeline.html)
 
 ## 📚 Skills & Certifications
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS_Certified_Developer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified Developer"/>
-  <img src="https://img.shields.io/badge/Oracle_Certified_Java_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified Java Professional"/>
-  <img src="https://img.shields.io/badge/Spring_Professional-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Professional"/>
-  <img src="https://img.shields.io/badge/Docker_Certified_Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Certified Associate"/>
-  <img src="https://img.shields.io/badge/Kafka_Developer-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka Developer"/>
+  <p><b>Summer Internship</b> - Data Driven Computing and Networking, MNNIT Allahabad</p>
 </div>
 
 <div align="center">
@@ -327,10 +274,9 @@ I'm a passionate backend engineer with **4+ years** of experience building robus
 ## 🎓 Education
 
 <div align="center">
-  <img src="https://img.shields.io/badge/B.Tech_Computer_Science-0056D2?style=for-the-badge&logo=academic-cap&logoColor=white" alt="B.Tech Computer Science"/>
-  <p><b>Dr. A.P.J. Abdul Kalam Technical University, Lucknow</b></p>
-  <p>Graduated: 2020 | CGPA: 8.7/10.0</p>
-  <p><i>Thesis: "Distributed Systems for High-Frequency Trading Applications"</i></p>
+  <img src="https://img.shields.io/badge/B.Tech_Computer_Science-0056D2?style=for-the-badge" alt="B.Tech Computer Science"/>
+  <p><b>Rajkiya Engineering College Sonbhadra</b></p>
+  <p>B.Tech, Computer Science & Engineering | 2017 - 2020 | CGPA: 7.5/10</p>
   
   <h4>Relevant Coursework</h4>
   <p>Data Structures & Algorithms, Operating Systems, Database Management Systems, Computer Networks, Software Engineering, Distributed Computing</p>
